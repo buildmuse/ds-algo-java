@@ -1,4 +1,4 @@
-package com.preethi.ds_algo;
+package com.ds_algo;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.preethi.ds_algo;
+package com.ds_algo;
 
 import junit.framework.TestCase;
 
